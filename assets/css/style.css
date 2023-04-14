@@ -1,0 +1,62 @@
+:root{
+    --mainColor: white;
+  }
+  * {
+      box-sizing: border-box;
+      margin:0;
+      padding:0;
+  } 
+  body {
+    margin: 0;
+    background-image: url("../images/img-1.jpg") ;
+    background-size: cover;
+    height: 100vh;
+  }
+  header{
+    height: 60px;
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 80px;
+    display: inline-block;
+  }
+  header h1{
+    color: var(--mainColor);
+    display: inline-block;
+    margin-left: 10px;
+  }
+  header p{
+    color: var(--mainColor);
+    font-size: 25px;
+    float: right;
+    margin-right: 30px;
+  }
+  .startButton{
+    padding: 10px;
+    margin:0 auto;
+    display:block;
+    background: transparent; 
+    border: 2px solid var(--mainColor);
+    border-radius: 5px; 
+    font-size: 30px;
+    color:var(--mainColor);
+  }
+  
+  .quiz{
+      display: none;
+      width: 50%;
+      padding:20px;
+      margin: 20px auto;
+      box-shadow: 8px 8px 8px 8px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+      border-radius: 10px;
+      background: rgba(255, 255, 255, 0.8);
+  }
+  .quiz h2{
+    margin-bottom: 25px;
+  }
+  
+  li{
+    list-style: none;
+  }
+  li button{
+    margin: 5px;
+  }
