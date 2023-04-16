@@ -28,16 +28,16 @@ To use this web page select start. This will begin our quiz and timer will begin
 
 If you answer all questions before timer ends. The end game prompt will display same as if you were to not answering all questions before timer runs out. Both sinerios will ask for the users name and will store score in "view high scores" section of our webpage. After selecting "view high scores" a window will pop up displaying all scores.
 
-<!-- ![Website screenshot](./assets/images/img-1.PNG)
-![Website screenshot](/assets/images/img-2.PNG)
-![Website screenshot](/assets/images/img-3.PNG) -->
+![Website screenshot](./assets/images/Capture1.PNG)
+![Website screenshot](/assets/images/Capture2.PNG)
+![Website screenshot](/assets/images/Capture3.PNG)
 
 
 ## Deployment
 
-Repo: https://github.com/devv-nunn/Random-Number-Generator
+Repo: https://github.com/devv-nunn/RandomQuestionGen
 
-GitPage: https://devv-nunn.github.io/Random-Number-Generator/
+GitPage: https://devv-nunn.github.io/RandomQuestionGen/
 
 # Tech Stack
 
